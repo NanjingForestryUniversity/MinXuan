@@ -1,0 +1,13 @@
+release/capture.o
+release/main.o
+release/widget.o
+release/thread.o
+release/modbus.o
+release/modbus-data.o
+release/modbus-rtu.o
+release/modbus-tcp.o
+release/qrc_keji.o
+release/qrc_res.o
+release/moc_capture.o
+release/moc_widget.o
+release/moc_thread.o
